@@ -50,8 +50,6 @@ if submit_button:
     else:
         st.write('The model predicts that the employee will stay with the company.')
 
-git config --global user.name "Elasa03"
-git config --global user.email elasalin@nd.edu
 
 
 # Display the form
